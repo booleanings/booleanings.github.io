@@ -1,0 +1,47 @@
+title: "Who's Aida?"
+description: "little ol student/developer in the columbia, sc area."
+url: "http://aidacodes.com"
+author: Aida El Kouri
+
+
+author-image: /img/mylovelyface.jpg
+
+baseurl: "/blog"  # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+
+
+#color scheme
+#current theme - https://coolors.co/b8b8d1-5b5f97-ffc145-fffffb-ff6b6c
+sidebar-color: '#565676'       #those apostrophes are important
+accent-color: '#A76571'     #those apostrophes are important
+link-color: '#406E6E'
+background-color: '#F2FAFB'
+
+#social
+facebook: https://www.facebook.com/aidaelkouri
+twitter: https://twitter.com/
+twitter-handle: '@aidaelkouri'     #for twitter button on author section #those apostrophes are important
+github: https://github.com/aidaekay
+youtube: https://www.youtube.com/channel/
+email: mailto:aelkouri@email.sc.edu
+
+#Other
+disqus-shortname: aidaelkouri    #Disqus comments
+google-custom-search-cx: '017575011755499056211:vwrwldvgq6s'        #Create Custom Search Engine(CSE) with google and find this ID in the code they provide.
+
+
+# Get this from https://getsimpleform.com to make your contact form work as expected.
+simpleform-api-token:
+
+
+destination: ./_site
+permalink: /:title
+paginate: 6
+paginate_path: /page:num/
+
+sass:
+    style: compressed
+
+plugins: [jekyll-paginate]
