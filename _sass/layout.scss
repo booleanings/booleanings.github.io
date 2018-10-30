@@ -1,5 +1,5 @@
 * {
- 
+
     transition-timing-function: ease;
     transition: all 0.3s;
 }
@@ -24,6 +24,10 @@ p, ul, ol {
     background-color: transparent;
 }
 
+.img-rounded {
+  border: 2px solid;
+  border-color: grey;
+}
 
 article,
 aside,
@@ -106,7 +110,7 @@ pre {
   font-size: 1em;
 }
 code{display: inline-block;}
-    
+
 
 
 * {
@@ -130,7 +134,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: $bg-color;
 }
 
 a {
@@ -174,7 +178,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: $font-family;
+  font-family: $Serif;
   font-weight: bold;
   line-height: 1.6;
   color: inherit;
@@ -454,7 +458,7 @@ img {
 a.post-link {
     color: #000;
 }
-h2#post-index{ 
+h2#post-index{
     margin: 10px;
     display: inline-block;
     border: none;
@@ -553,6 +557,9 @@ input#mc-embedded-subscribe {
     margin-top: 0.625em;
 }
 
+span.post-meta {
+  color: $link-color;
+}
 
 
 input#mce-EMAIL {
@@ -650,7 +657,7 @@ ul.contact-ul {
 .author-bar {
     position: fixed;
     right:0;
-    
+
 }
 
 .menu-icon {
@@ -661,13 +668,13 @@ ul.contact-ul {
 //media query start
 
 @media (max-width: 900px) {
-    
+
         #author-div {
             padding: 20px 0 0 0;
             margin-top: 2em;
             border-top:1px solid #eee;
         }
-        
+
     img {
     max-width: 100%;
 }
@@ -700,7 +707,7 @@ ul.contact-ul {
         line-height: 1.5;
         }
        .author-bar{
-         position: static; 
+         position: static;
         }
     .menu-icon{
         width: 20px;
@@ -708,7 +715,3 @@ ul.contact-ul {
 }
 
 //media query end
-
-
-
-

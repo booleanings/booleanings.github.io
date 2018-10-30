@@ -5,7 +5,13 @@
 
 $font-family: 'PT Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
 $sidebar-color: {{site.sidebar-color}};
-$accent-color: {{site.accent-color}}; 
+$accent-color: {{site.accent-color}};
+$link-color: {{site.link-color}};
+$bg-color: {{site.background-color}};
+// google web fonts
+$Serif: 'Roboto Slab', serif;
+$SansSerif: 'Roboto', sans-serif;
+$Monospace: 'Roboto Mono', monospace;
 
 @import
         "simple-sidebar",

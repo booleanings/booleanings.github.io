@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-desc: I would like to know what my users have to say about the website. Any query suggestion, tip would be great. Contacting WebJeda is easy. Just fill up the form and hit send.
+desc: Wanna get to know me more? Use the contact form below.
 permalink: /contact/
 ---
 
@@ -21,11 +21,10 @@ This is a sample form. Update API TOKEN recieved from [SimpleForm](https://getsi
                 <label class="contact-label" for="message">Message:</label>
                 <textarea class="contact-textarea" placeholder="Your message" class="contact-input" rows="4" id="message" name="message" tabindex="3"></textarea>
             </li>
-            
+
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
-        
+
 </form>
 
 
