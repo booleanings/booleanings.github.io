@@ -1,12 +1,12 @@
 title: "Who's Aida?"
 description: "little ol student/developer in the columbia, sc area."
-url: "http://aida.wtf"
+url: "https://aida.wtf/"
 author: Aida El Kouri
 
 
 author-image: /img/mylovelyface.jpg
 
-baseurl: "/blog"  # the subpath of your site, e.g. /blog
+baseurl: "/"  # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
@@ -36,7 +36,6 @@ google-custom-search-cx: '017575011755499056211:vwrwldvgq6s'        #Create Cust
 simpleform-api-token:
 
 
-destination: ./_site
 permalink: /:title
 paginate: 6
 paginate_path: /page:num/
