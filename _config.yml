@@ -36,7 +36,6 @@ google-custom-search-cx: '017575011755499056211:vwrwldvgq6s'        #Create Cust
 simpleform-api-token:
 
 
-destination: ./_site
 permalink: /:title
 paginate: 6
 paginate_path: /page:num/
