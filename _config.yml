@@ -1,6 +1,6 @@
 title: "Who's Aida?"
 description: "little ol student/developer in the columbia, sc area."
-url: "http://aidacodes.com"
+url: "http://aida.wtf"
 author: Aida El Kouri
 
 
@@ -43,5 +43,3 @@ paginate_path: /page:num/
 
 sass:
     style: compressed
-
-plugins: [jekyll-paginate]
