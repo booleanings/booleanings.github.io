@@ -39,9 +39,23 @@ A Record`@`192.30.252.154`30 min
 A Record`@`192.30.252.153`Automatic
 CNAME Record`wwwbooleanings.github.io`Automatic
 
-and then on github i just have a file called `CNAME` with this
-`https://aida.wtf`
+[and then on github i just have a file called `CNAME` with this
+`https://aida.wtf`] <- redacted this shit was dumb
 
 the day has been exhausting but i'm so damn proud 
 
 ![tears of joi](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.RbM_s7THmThqCIV9TG2gbAHaEA%26pid%3D15.1&f=1)
+
+## not quite the end of my misery
+so at this point, had a slight problem with the site not being secure and it giving me one of those scary 
+
+`this site not secure. proceed with caution` messages.
+
+the solution was to change my github custom domain to this:
+www.aida.wtf
+instead of this:
+aida.wtf
+
+why this changes anything BEATS ME but like i said _tears of joy_ all around.
+
+
