@@ -6,7 +6,7 @@ author: Aida El Kouri
 
 author-image: /img/mylovelyface.jpg
 
-baseurl: "/"  # the subpath of your site, e.g. /blog
+baseurl: "/blog"  # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
