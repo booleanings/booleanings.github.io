@@ -2,7 +2,7 @@
 layout: post
 title: Learning Elm - Forms
 tags: elm coding
-category: coding 🗝
+category: functional_programming ⚛︎
 ---
 # Learning Elm - Forms
 ## Model
