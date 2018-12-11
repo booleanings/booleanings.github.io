@@ -2,7 +2,7 @@
 layout: post
 title: Learning Elm - Text Fields
 tags: elm coding
-category: coding 🗝
+category: functional_programming ⚛︎
 ---
 # Learning Elm - Text Fields
 ## Questions for the Day ⁉️
